@@ -3,7 +3,7 @@
  * 1. average word length
  * 2. average sentence length
  * 3. frequency per 1000 words for each unique word provided in the document
- *
+ * 
  * Note: all statistics are printed to a file
  *
  * Logic for analyzing a text document:
