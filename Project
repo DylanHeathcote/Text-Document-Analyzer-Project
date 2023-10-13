@@ -149,7 +149,7 @@ Node *new_node(const char *Word){//O(1)
 
 void add_word(Node *node, const char *current_token){//O(log(n))
     if(strcmp(current_token,node->Word)<0){
-        if(node->lessThan!=NULL) {
+        if(node->lessThan!=NULL) { 
             add_word(node->lessThan, current_token);
         }
         else {
