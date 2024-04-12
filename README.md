@@ -1,0 +1,1 @@
+Note this project is still being developed to both add more compadability, add more capabilities, and to enhance program saftey. However, the program may be used as a refrence to create other statistical analyzer programs
